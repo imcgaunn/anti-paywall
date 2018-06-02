@@ -1,3 +1,9 @@
+# NOTE from imcgaunn
+
+This is exactly the same as the original 'anti-paywall' addon, but it has been run through
+microsoft's 'edge extension toolkit' which installs shims that translate between edge and
+chrome APIs.
+
 # Anti-Paywall
 
 This extension will mangle your browser's requests to maximize the chances of bypassing paywalls.
